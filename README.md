@@ -1,4 +1,4 @@
 # **Stream**Payments
 
-Web3 Payments provider for Medusa Commerce
+#### Web3 Payments provider for Medusa Commerce
 
